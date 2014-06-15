@@ -1,11 +1,6 @@
-update=Fri 17 Jan 2014 21:49:57 CET
+update=Sun 15 Jun 2014 12:16:10 CEST
 version=1
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=
@@ -26,7 +21,6 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -43,6 +37,9 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
+LibName17=w_smd_diode
+LibName18=pin_array_7x2
+LibDir=
 [general]
 version=1
 [eeschema]
@@ -86,3 +83,9 @@ LibName29=valves
 LibName30=lib/my_msp430
 LibName31=lib/my_devices
 LibName32=lib/transistors
+LibName33=JTAG
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
