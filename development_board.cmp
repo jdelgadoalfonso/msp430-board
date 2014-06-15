@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sun 15 Jun 2014 12:18:29 CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sun 15 Jun 2014 14:00:16 CEST
 
 BeginCmp
 TimeStamp = /52D179BA/52EED4E4;
@@ -396,7 +396,7 @@ BeginCmp
 TimeStamp = /52D179BA/52D17A1D;
 Reference = U1;
 ValeurCmp = MSP430F5510;
-IdModule  = ;
+IdModule  = IPC_QFP50P900X900X160-48N;
 EndCmp
 
 BeginCmp

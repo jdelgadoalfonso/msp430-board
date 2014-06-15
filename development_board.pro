@@ -1,4 +1,4 @@
-update=Sun 15 Jun 2014 12:16:10 CEST
+update=Sun 15 Jun 2014 13:45:29 CEST
 version=1
 last_client=cvpcb
 [pcbnew]
@@ -39,6 +39,7 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=w_smd_diode
 LibName18=pin_array_7x2
+LibName19=qfp48
 LibDir=
 [general]
 version=1
