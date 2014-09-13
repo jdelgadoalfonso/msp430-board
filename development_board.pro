@@ -1,6 +1,6 @@
-update=Sun 15 Jun 2014 13:45:29 CEST
+update=Sat 13 Sep 2014 18:44:38 CEST
 version=1
-last_client=cvpcb
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -40,9 +40,8 @@ LibName16=valves
 LibName17=w_smd_diode
 LibName18=pin_array_7x2
 LibName19=qfp48
+LibName20=lib/lm3568
 LibDir=
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -90,3 +89,5 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1

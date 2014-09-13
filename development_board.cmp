@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sun 15 Jun 2014 14:00:16 CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sat 13 Sep 2014 18:44:29 CEST
 
 BeginCmp
 TimeStamp = /52D179BA/52EED4E4;
@@ -389,7 +389,7 @@ BeginCmp
 TimeStamp = /52D179BA/52EED4F9;
 Reference = SW1;
 ValeurCmp = SW_PUSH;
-IdModule  = ;
+IdModule  = SIL-2;
 EndCmp
 
 BeginCmp
@@ -403,21 +403,21 @@ BeginCmp
 TimeStamp = /52D82539/52D834F4;
 Reference = U2;
 ValeurCmp = LM3658;
-IdModule  = ;
+IdModule  = LM3658;
 EndCmp
 
 BeginCmp
 TimeStamp = /52D82539/52D96510;
 Reference = U3;
 ValeurCmp = TLV71333;
-IdModule  = ;
+IdModule  = SOT23-5;
 EndCmp
 
 BeginCmp
 TimeStamp = /52D179BA/52DC3C2D;
 Reference = X1;
 ValeurCmp = CRYSTAL;
-IdModule  = ;
+IdModule  = SIL-2;
 EndCmp
 
 EndListe
