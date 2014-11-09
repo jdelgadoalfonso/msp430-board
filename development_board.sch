@@ -31,6 +31,7 @@ LIBS:valves
 LIBS:my_msp430
 LIBS:my_devices
 LIBS:transistors
+LIBS:JTAG
 LIBS:development_board-cache
 EELAYER 27 0
 EELAYER END
@@ -38,7 +39,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 5
 Title ""
-Date "25 may 2014"
+Date "14 sep 2014"
 Rev ""
 Comp ""
 Comment1 ""
